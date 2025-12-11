@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 079f6405d6bd06c4cb997f0a340cc35c
+guid: 2fd7391145b95654a8909da6649c1b92
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4695118777872911621
-    second: pngtree-diamond-icon-cartoon-style_0
+      213: -8632829599569049861
+    second: processed_image (2)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pngtree-diamond-icon-cartoon-style_0
+      name: processed_image (2)_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 360
-        height: 360
+        y: 40
+        width: 327
+        height: 320
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bf27e9ae85697deb0800000000000000
-      internalID: -4695118777872911621
+      spriteID: bf68537c737023880800000000000000
+      internalID: -8632829599569049861
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      pngtree-diamond-icon-cartoon-style_0: -4695118777872911621
+      processed_image (2)_0: -8632829599569049861
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
